@@ -1,1 +1,1 @@
-It was a great day today, I finished the nodeJS theoretical section
+It was a great day today, I finished the nodeJS theoretical section.
