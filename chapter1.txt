@@ -1,1 +1,2 @@
-It was a great day today, I finished the nodeJS theoretical section.
+It was a great day today, I finished the nodeJS theoretical section and still working on the git and github section,
+the key is being productive all the time don't persist if you aren't stuck.
